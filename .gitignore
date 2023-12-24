@@ -1,0 +1,13 @@
+#################################
+# Unreal Engine Generated Files #
+#################################
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+
+/.idea
+/.vs
