@@ -1,9 +1,17 @@
+# ignore all
 /*
+
+# except Content folder
 !/Content
 
+# ignore all in Content folder
 /Content/*
-!/Content/Blueprints
 
+# except Blueprints folder and its subfolders
+!/Content/Blueprints
+!/Content/Blueprints/**
+
+# do not ignore other folders and files
 !Source/
 !Config/
 !.gitignore
